@@ -25,3 +25,4 @@
   ```bash
   git clone https://github.com/aluminium65/Gup-Shup.git
   cd Gup-Shup
+  python3 Gup-Shup.py
