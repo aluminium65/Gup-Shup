@@ -15,8 +15,8 @@
 
   ### 1. Prerequisites
 
-  * Python 3.x
-  * `netcat` (installed by default on most Linux/macOS systems)
+  * Python 3.x -> On Server
+  * `netcat` -> ON Client (installed by default on most Linux/macOS systems)
 
   ### 2. Installation & Setup
 
