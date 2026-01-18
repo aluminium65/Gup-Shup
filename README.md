@@ -1,4 +1,4 @@
-readme_content: |
+
   # Gup Shup 💬
 
   **Gup Shup** is a minimalist, lightweight Python-based chat server designed for simplicity and ease of use. Unlike traditional chat apps, there are no usernames or registration forms. Users are identified solely by their **IP addresses**, making it a "no-frills" communication tool that you can start and leave running on any server.
