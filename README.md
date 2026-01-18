@@ -23,5 +23,5 @@
   Clone the repository to your server:
 
   ```bash
-  git clone [https://github.com/aluminium65/Gup-Shup.git](https://github.com/aluminium65/Gup-Shup.git)
+  git clone https://github.com/aluminium65/Gup-Shup.git
   cd Gup-Shup
